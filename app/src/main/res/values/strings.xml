@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">DailySelfie</string>
+    <string name="camera">camera</string>
+    <string name="take_a_photo">Take a photo</string>
+    <string name="choose_time_for_notification">Choose time for notification</string>
+
+    <string name="app_title">Daily Selfie</string>
+    <string name="text_title">Daily Selfie</string>
+    <string name="open_camera">open camera</string>
+    <string name="space_footer_left">none</string>
+    <string name="close_camera">close_camera</string>
+    <string name="space_header">space_header</string>
+    <string name="take_photo">take_photo</string>
+    <string name="delete">Xóa</string>
+    <string name="image">image</string>
+    <string name="get">Giữ lại</string>
+    <string name="view_image">view_image</string>
+    <string name="take">take</string>
+    <string name="test2">test</string>
+    <string name="show_image">show image</string>
+    <string name="back">Quay lại</string>
+    <string name="showimage">showImage</string>
+    <string name="btn_space">Button</string>
+    <string name="recycle_bin">Recycle Bin</string>
+</resources>
